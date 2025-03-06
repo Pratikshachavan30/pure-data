@@ -1,6 +1,19 @@
- {
-      title: "Diploma Solutions",
-      description: "This project likely showcases a website or application designed for educational institutions or individuals pursuing diplomas. It might involve features like online course registration, student portals, or career guidance.",
-      tags: ["Wordpress", "Analytics", "SEO"],
-      image: dp,
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "alice@example.com"
     },
+    {
+      "id": 2,
+      "name": "Bob",
+      "email": "bob@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "email": "charlie@example.com"
+    }
+  ]
+}
